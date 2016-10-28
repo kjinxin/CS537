@@ -1,0 +1,9 @@
+Author: Xin Jin
+CS login: jx
+Wisc login: xjin68
+Email: xjin68@wisc.edu
+
+This project aims to design the multi-level feedback queue. In addition, it
+provides a system call getpinfo which has parameter.
+
+To run the project, just use the original makefile and type "make"
