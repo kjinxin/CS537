@@ -1,0 +1,10 @@
+Author: Xin Jin
+CS login: jx
+Wisc login: xjin68
+Email: xjin68@wisc.edu
+
+This mysh aims to build a simplified shell, which could run the basic shell
+command and some in-build command like j, myw pid, exit.
+
+To build mysh on a linux machine, run "make".
+To clean the project, just run "make clean"

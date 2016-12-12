@@ -1,0 +1,539 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"M",
+				"MASK1"
+			],
+			[
+				"MA",
+				"MASK2"
+			],
+			[
+				"is",
+				"isThread"
+			],
+			[
+				"pthread_mu",
+				"pthread_mutex_lock"
+			],
+			[
+				"serv",
+				"server_t"
+			],
+			[
+				"ser",
+				"server_t"
+			],
+			[
+				"pthrea",
+				"pthread_con_t"
+			],
+			[
+				"U",
+				"USERTOP"
+			],
+			[
+				"PG",
+				"PGSIZE"
+			],
+			[
+				"N",
+				"NSHMKEYS"
+			],
+			[
+				"s1",
+				"s1_end"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/u/j/x/jx/CS537/p5/xv6/xv6/user/makefile.mk",
+			"settings":
+			{
+				"buffer_size": 2490,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/u/j/x/jx/CS537/p5/xv6/xv6/user/filestat.c",
+			"settings":
+			{
+				"buffer_size": 620,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/u/j/x/jx/CS537/p5/xv6/xv6/kernel/file.c",
+			"settings":
+			{
+				"buffer_size": 2151,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/u/j/x/jx/CS537/p5/xv6/xv6/kernel/fs.c",
+			"settings":
+			{
+				"buffer_size": 15911,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/u/j/x/jx/CS537/p5/xv6/xv6/include/fs.h",
+			"settings":
+			{
+				"buffer_size": 1491,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/u/j/x/jx/CS537/p5/xv6/xv6/user/ulib.c",
+			"settings":
+			{
+				"buffer_size": 1245,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/u/j/x/jx/CS537/p5/xv6/xv6/user/hello.c",
+			"settings":
+			{
+				"buffer_size": 1262,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/u/j/x/jx/CS537/p5/xv6/xv6",
+		"/u/j/x/jx/CS537/p5/xv6/xv6/kernel"
+	],
+	"file_history":
+	[
+		"/u/j/x/jx/CS537/p5/xv6/xv6/user/tester.c",
+		"/u/j/x/jx/CS537/p5/xv6/xv6/include/stat.h",
+		"/u/j/x/jx/CS537/p5/xv6/xv6/kernel/syscall.c",
+		"/u/j/x/jx/CS537/p5/xv6/xv6/include/fcntl.h",
+		"/u/j/x/jx/CS537/p5/xv6/xv6/kernel/file.h",
+		"/u/j/x/jx/CS537/p5/xv6/xv6/kernel/fs.c",
+		"/u/j/x/jx/CS537/p5/xv6/xv6/include/fs.h",
+		"/u/j/x/jx/CS537/p5/xv6/xv6/kernel/file.c",
+		"/u/j/x/jx/CS537/p5/xv6/xv6/kernel/sysfile.c",
+		"/u/j/x/jx/CS537/p5/xv6/xv6/kernel/console.c",
+		"/u/j/x/jx/CS537/p5/xv6/xv6/kernel/defs.h",
+		"/u/j/x/jx/CS537/p5/xv6/xv6/kernel/buf.h",
+		"/u/j/x/jx/CS537/p4/xv6/xv6/user/user.h",
+		"/u/j/x/jx/CS537/p4/xv6/xv6/include/param.h",
+		"/u/j/x/jx/CS537/p4/xv6/xv6/user/threadlib.c",
+		"/u/j/x/jx/CS537/p4/xv6/xv6/kernel/defs.h",
+		"/u/j/x/jx/CS537/p4/xv6/xv6/user/hello.c",
+		"/u/j/x/jx/CS537/p4/xv6/xv6/kernel/proc.c",
+		"/u/j/x/jx/CS537/p4/xv6/xv6/kernel/sysproc.c",
+		"/u/j/x/jx/CS537/p4/xv6/xv6/kernel/syscall.c",
+		"/u/j/x/jx/CS537/p4/xv6/xv6/user/usys.S",
+		"/u/j/x/jx/CS537/p4/xv6/xv6/kernel/proc.h",
+		"/u/j/x/jx/CS537/p4/p4/server.c",
+		"/u/j/x/jx/CS537/p4/xv6/xv6/kernel/sysfunc.h",
+		"/u/j/x/jx/CS537/p4/xv6/xv6/include/syscall.h",
+		"/u/j/x/jx/CS537/p4/p4/cs537.h",
+		"/u/j/x/jx/CS537/p3b/xv6/xv6/user/user.h",
+		"/u/j/x/jx/CS537/p3b/xv6/xv6/user/usys.S",
+		"/u/j/x/jx/CS537/p3b/xv6/xv6/kernel/syscall.c",
+		"/u/j/x/jx/CS537/p3b/xv6/xv6/kernel/vm.c",
+		"/u/j/x/jx/CS537/p3b/xv6/xv6/kernel/proc.h",
+		"/u/j/x/jx/CS537/p3b/xv6/xv6/kernel/defs.h",
+		"/u/j/x/jx/CS537/p3b/xv6/xv6/kernel/exec.c",
+		"/u/j/x/jx/CS537/p3b/xv6/xv6/kernel/proc.c",
+		"/u/j/x/jx/CS537/p3b/xv6/xv6/include/param.h",
+		"/u/j/x/jx/CS537/p3b/xv6/xv6/kernel/main.c",
+		"/u/j/x/jx/CS537/p3b/xv6/xv6/kernel/sysfile.c",
+		"/u/j/x/jx/CS537/p3b/xv6/xv6/include/syscall.h",
+		"/u/j/x/jx/CS537/p3b/xv6/xv6/kernel/sysproc.c",
+		"/u/j/x/jx/CS537/p3b/xv6/xv6/kernel/sysfunc.h",
+		"/u/j/x/jx/CS537/p3b/xv6/xv6/include/x86.h",
+		"/u/j/x/jx/CS537/p3b/xv6/xv6/include/fcntl.h",
+		"/u/j/x/jx/private/google/magicalstring.cpp",
+		"/u/j/x/jx/C++/leet240.cpp",
+		"/u/j/x/jx/C++/test2.cpp",
+		"/u/j/x/jx/C++/test.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"stat",
+			"stati",
+			"stat",
+			"ip->addr",
+			"bmap",
+			"cprintf",
+			"p->sz",
+			"wait",
+			"idup",
+			"PGROUNDUP",
+			"growproc",
+			"kalloc"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/u/j/x/jx/CS537/p5/xv6/xv6/user/makefile.mk",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								124
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/u/j/x/jx/CS537/p5/xv6/xv6/user/filestat.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 620,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								458
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/u/j/x/jx/CS537/p5/xv6/xv6/kernel/file.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2107,
+								2107
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1377.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/u/j/x/jx/CS537/p5/xv6/xv6/kernel/fs.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15911,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8048,
+								8048
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5253.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/u/j/x/jx/CS537/p5/xv6/xv6/include/fs.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1491,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/u/j/x/jx/CS537/p5/xv6/xv6/user/ulib.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								830,
+								830
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 714.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/u/j/x/jx/CS537/p5/xv6/xv6/user/hello.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								818,
+								818
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 204.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "xv6.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
